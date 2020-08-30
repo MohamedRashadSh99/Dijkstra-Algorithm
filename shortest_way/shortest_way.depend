@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1598824475 source:c:\users\ram\desktop\shortest_way\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<limits.h>
+	<stdbool.h>
+	<string.h>
+
